@@ -17,6 +17,8 @@ ApplicationWindow {
     property color reallyLight: "#e7e7e7"
     property color light: "#e0e0e0"
 
+
+
     GridLayout {
         id: grid
         columns: width < 400 ? 1 : 2
